@@ -1,0 +1,3 @@
+local GUI = game:GetService("ReplicatedStorage").Vehicle_Spawner.Car_Spawner:Clone()
+
+GUI.Parent = game.Players.LocalPlayer.PlayerGui
